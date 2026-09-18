@@ -1,0 +1,9 @@
+cluster_label,priority_group,centroid_lon,centroid_lat,administrative_unit,pumpjack_count,n_grids,distance_to_coast_km,p75_cells
+C1,Priority 1,118.77857142857142,38.00714285714286,Hekou District,3322,7,9.877779707718354,5
+C2,Priority 2,117.88333333333333,37.88333333333333,Wudi County,129,3,33.52532467424279,1
+C3,Priority 2,118.55,37.45,Kenli District,307,3,35.549806881886525,3
+C4,Priority 2,119.41666666666667,36.91666666666667,Changyi City,0,3,23.24857505965162,0
+C5,Priority 1,118.1,37.45,Lijin County,875,2,73.61069777017968,2
+C6,Priority 1,118.4,37.45,Kenli District,441,2,48.66717862817276,2
+C7,Priority 2,118.2,37.7,Zhanhua District,159,2,48.45229345191336,2
+C8,Priority 2,119.1,37.099999999999994,Shouguang City,0,2,11.21245898169484,0
