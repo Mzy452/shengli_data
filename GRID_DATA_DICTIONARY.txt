@@ -1,0 +1,59 @@
+co2_inventory_annual_series.csv
+  Annual EDGAR and ODIAC CO2 totals by analysis domain.
+
+co2_inventory_trend_statistics.csv
+  Trend estimates and correlation statistics for annual CO2 series.
+
+pumpjack_grid_density.csv
+  Grid-level pumpjack counts, areas, land fraction, and density metrics.
+
+pumpjack_spatial_context_grid.csv
+  Grid-level pumpjack count, density, distance, and infrastructure class.
+
+methane_background_control_summary.csv
+  Background-control design and adjusted methane contrast summaries.
+
+methane_latitude_placebo.csv
+  Latitude-stratified placebo contrast replicates.
+
+methane_threshold_sensitivity.csv
+  Methane contrast results across percentile thresholds.
+
+methane_temporal_contrasts.csv
+  Annual and grouped methane contrast summaries.
+
+methane_common_support_comparison.csv
+  Temporal comparisons restricted to common spatial support.
+
+inventory_pumpjack_grid_classes.csv
+  Grid-level inventory, pumpjack, methane, land, and coastline attributes.
+
+inventory_pumpjack_overlap_response.csv
+  Methane summaries by inventory-pumpjack overlap class.
+
+pumpjack_contrast_summary.csv
+  Pumpjack-density contrast summary statistics.
+
+monitoring_priority_grid.csv
+  Grid-level multi-layer monitoring-priority indicators.
+
+priority_candidate_cells.csv
+  Merged priority candidate cells and their attributes.
+
+priority_candidate_clusters.csv
+  Cluster-level candidate summaries.
+
+priority_candidate_coverage.csv
+  Candidate counts in core, land-intersecting, and offshore subsets.
+
+priority_cluster_summary.csv
+  Named multi-cell priority cluster summaries.
+
+coastline_exclusion_sensitivity.csv
+  Coastline-exclusion sensitivity summaries.
+
+spatial_coupling_grid.csv
+  Grid-level methane and CO2 coupling variables.
+
+three_layer_convergence_cell.csv
+  Identifier and coordinates of the grid cell meeting all three evidence conditions.

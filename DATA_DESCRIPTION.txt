@@ -1,0 +1,36 @@
+CONTENTS
+
+raw/
+  edgar/          EDGAR 2025 NetCDF emission files used in the analysis.
+  odiac/          ODIAC2025 annual fossil-fuel CO2 NetCDF files.
+  era5/           ERA5 wind NetCDF files for 2018-2025.
+  tropomi/        Sentinel-5P TROPOMI CH4 NetCDF observation files.
+  natural_earth/  Natural Earth country, coastline, and river vector layers.
+
+grid_0p1deg/
+  Derived 0.1 degree by 0.1 degree grid products and summary statistics.
+  These files contain no exact pumpjack coordinates.
+
+SPATIAL REFERENCE
+
+All longitude and latitude fields use WGS84 geographic coordinates. Grid products use a 0.1 degree by 0.1 degree analysis grid.
+
+PUMPJACK CONFIDENTIALITY
+
+Exact pumpjack locations are intentionally excluded. Pumpjack variables in grid_0p1deg are counts, densities, threshold classes, or aggregated candidate indicators only.
+
+RAW DATA NOTES
+
+EDGAR files: REF_TRF and PRO_FFF CO2 files cover 2000-2024. PRO_OIL and PRO_GAS CH4 files cover 2019-2024.
+ODIAC files cover 2000-2024.
+ERA5 wind files cover 2018-2025.
+TROPOMI CH4 files are the downloaded observations used for the regional processing workflow.
+Natural Earth files provide map geometry only.
+
+UPSTREAM PROVIDERS
+
+EDGAR: https://edgar.jrc.ec.europa.eu/
+ODIAC: https://db.cger.nies.go.jp/dataset/ODIAC/
+TROPOMI: https://sentiwiki.copernicus.eu/web/s5p-products
+ERA5: https://cds.climate.copernicus.eu/
+Natural Earth: https://www.naturalearthdata.com/
